@@ -1,4 +1,4 @@
-package com.chung.source.reading.collections;
+package com.chung.source.reading.collections.source;
 
 import com.chung.source.reading.collections.test.ArrayListTest;
 
