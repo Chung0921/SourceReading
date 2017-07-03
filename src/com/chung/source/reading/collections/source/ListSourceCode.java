@@ -58,7 +58,7 @@ public class ListSourceCode {
 	 * Note that these operations may execute in time proportional to the index value for some implementations (the
 	 * <tt>LinkedList</tt> class, for example).
 	 * 注意,一些操作可能会在某些继承接口的类中有比例的及时的执行,如LinkedList.
-	 * @see LinkedList
+	 * @see com.chung.source.reading.collections.source.list.LinkedList
 	 *
 	 * Thus, iterating over the elements in a list is typically preferable to indexing
 	 * through it if the caller does not know the implementation.<p>
@@ -123,8 +123,8 @@ public class ListSourceCode {
 	 * @author  Neal Gafter
 	 * @see Collection
 	 * @see Set
-	 * @see ArrayList
-	 * @see LinkedList
+	 * @see com.chung.source.reading.collections.source.list.ArrayList
+	 * @see com.chung.source.reading.collections.source.list.LinkedList
 	 * @see Vector
 	 * @see Arrays#asList(Object[])
 	 * @see Collections#nCopies(int, Object)

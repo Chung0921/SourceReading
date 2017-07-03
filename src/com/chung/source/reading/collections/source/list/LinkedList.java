@@ -1,4 +1,4 @@
-package com.chung.source.reading.collections.source;
+package com.chung.source.reading.collections.source.list;
 
 import java.util.*;
 import java.util.function.Consumer;
